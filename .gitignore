@@ -27,3 +27,6 @@ logs/**/debug.log
 
 #ppt 파일
 *.pptx
+
+
+Git-branch/
